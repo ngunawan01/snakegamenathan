@@ -1,0 +1,17 @@
+D:\UC\MATKUL\SEMESTER 1\ALGORITHM\FINAL PROJECT SEMESTER 1\SNAKE GAME PROJECT\snake_game\snake_game\obj\Debug\net6.0-windows\snake_game.csproj.AssemblyReference.cache
+D:\UC\MATKUL\SEMESTER 1\ALGORITHM\FINAL PROJECT SEMESTER 1\SNAKE GAME PROJECT\snake_game\snake_game\obj\Debug\net6.0-windows\snake_game.csproj.GenerateResource.cache
+D:\UC\MATKUL\SEMESTER 1\ALGORITHM\FINAL PROJECT SEMESTER 1\SNAKE GAME PROJECT\snake_game\snake_game\obj\Debug\net6.0-windows\snake_game.GeneratedMSBuildEditorConfig.editorconfig
+D:\UC\MATKUL\SEMESTER 1\ALGORITHM\FINAL PROJECT SEMESTER 1\SNAKE GAME PROJECT\snake_game\snake_game\obj\Debug\net6.0-windows\snake_game.AssemblyInfoInputs.cache
+D:\UC\MATKUL\SEMESTER 1\ALGORITHM\FINAL PROJECT SEMESTER 1\SNAKE GAME PROJECT\snake_game\snake_game\obj\Debug\net6.0-windows\snake_game.AssemblyInfo.cs
+D:\UC\MATKUL\SEMESTER 1\ALGORITHM\FINAL PROJECT SEMESTER 1\SNAKE GAME PROJECT\snake_game\snake_game\obj\Debug\net6.0-windows\snake_game.csproj.CoreCompileInputs.cache
+D:\UC\MATKUL\SEMESTER 1\ALGORITHM\FINAL PROJECT SEMESTER 1\SNAKE GAME PROJECT\snake_game\snake_game\obj\Debug\net6.0-windows\snake_game.Form1.resources
+D:\UC\MATKUL\SEMESTER 1\ALGORITHM\FINAL PROJECT SEMESTER 1\SNAKE GAME PROJECT\snake_game\snake_game\bin\Debug\net6.0-windows\snake_game.exe
+D:\UC\MATKUL\SEMESTER 1\ALGORITHM\FINAL PROJECT SEMESTER 1\SNAKE GAME PROJECT\snake_game\snake_game\bin\Debug\net6.0-windows\snake_game.deps.json
+D:\UC\MATKUL\SEMESTER 1\ALGORITHM\FINAL PROJECT SEMESTER 1\SNAKE GAME PROJECT\snake_game\snake_game\bin\Debug\net6.0-windows\snake_game.runtimeconfig.json
+D:\UC\MATKUL\SEMESTER 1\ALGORITHM\FINAL PROJECT SEMESTER 1\SNAKE GAME PROJECT\snake_game\snake_game\bin\Debug\net6.0-windows\snake_game.dll
+D:\UC\MATKUL\SEMESTER 1\ALGORITHM\FINAL PROJECT SEMESTER 1\SNAKE GAME PROJECT\snake_game\snake_game\bin\Debug\net6.0-windows\snake_game.pdb
+D:\UC\MATKUL\SEMESTER 1\ALGORITHM\FINAL PROJECT SEMESTER 1\SNAKE GAME PROJECT\snake_game\snake_game\obj\Debug\net6.0-windows\snake_game.dll
+D:\UC\MATKUL\SEMESTER 1\ALGORITHM\FINAL PROJECT SEMESTER 1\SNAKE GAME PROJECT\snake_game\snake_game\obj\Debug\net6.0-windows\refint\snake_game.dll
+D:\UC\MATKUL\SEMESTER 1\ALGORITHM\FINAL PROJECT SEMESTER 1\SNAKE GAME PROJECT\snake_game\snake_game\obj\Debug\net6.0-windows\snake_game.pdb
+D:\UC\MATKUL\SEMESTER 1\ALGORITHM\FINAL PROJECT SEMESTER 1\SNAKE GAME PROJECT\snake_game\snake_game\obj\Debug\net6.0-windows\snake_game.genruntimeconfig.cache
+D:\UC\MATKUL\SEMESTER 1\ALGORITHM\FINAL PROJECT SEMESTER 1\SNAKE GAME PROJECT\snake_game\snake_game\obj\Debug\net6.0-windows\ref\snake_game.dll
